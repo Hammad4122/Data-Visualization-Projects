@@ -89,3 +89,7 @@ All data is internally defined using a nested Python dictionary with the followi
 * Integrate weather and employee stats into analysis
 * Add more real-world variability or connect to live/CSV datasets
 * Export visualizations to files
+
+### Graphs
+<img width="478" height="409" alt="image" src="https://github.com/user-attachments/assets/eec8b000-9a02-4b77-a37c-95f4838869cc" />
+
