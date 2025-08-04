@@ -77,10 +77,21 @@ All data is internally defined using a nested Python dictionary with the followi
 ### 📈 Sample Outputs
 
 * Airline flight frequency bar chart
+<img width="478" height="409" alt="image" src="https://github.com/user-attachments/assets/eec8b000-9a02-4b77-a37c-95f4838869cc" />
 * Pie chart of flight statuses
+<img width="479" height="403" alt="image" src="https://github.com/user-attachments/assets/79b47784-4d05-4996-b5c3-e9736c33de64" />
 * Passenger traffic line chart
+<img width="478" height="404" alt="image" src="https://github.com/user-attachments/assets/241213bd-3e2b-4bd7-8250-e86f0e3484f8" />
+* Domestic and International Passengers Stacked Bar chart
+<img width="477" height="408" alt="image" src="https://github.com/user-attachments/assets/ae8bb616-c7e0-4c8b-b6a1-840f073bb149" />
+* Total Baggage across Flights
+<img width="476" height="407" alt="image" src="https://github.com/user-attachments/assets/ab4b0e15-9e76-4ee0-84fa-ca1f8c804b2c" />
 * Baggage delay bar and stacked visualizations
+<img width="477" height="407" alt="image" src="https://github.com/user-attachments/assets/ce9cedc2-7769-47b2-994d-6206b5a66ab4" />
 * Fuel usage trends and cost analysis plots
+<img width="476" height="407" alt="image" src="https://github.com/user-attachments/assets/5113683b-9cf6-4f61-aa27-e1b14dad56e5" />
+<img width="476" height="406" alt="image" src="https://github.com/user-attachments/assets/6fa2c3f9-70c6-4547-8671-6c34b8c2b3ed" />
+<img width="476" height="403" alt="image" src="https://github.com/user-attachments/assets/ff1a04f5-58b7-44d1-9d2a-9bdb99de0fb7" />
 
 ---
 
@@ -90,6 +101,6 @@ All data is internally defined using a nested Python dictionary with the followi
 * Add more real-world variability or connect to live/CSV datasets
 * Export visualizations to files
 
-### Graphs
-<img width="478" height="409" alt="image" src="https://github.com/user-attachments/assets/eec8b000-9a02-4b77-a37c-95f4838869cc" />
+
+
 
