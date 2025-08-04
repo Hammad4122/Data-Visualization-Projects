@@ -101,6 +101,10 @@ All data is internally defined using a nested Python dictionary with the followi
 
 ---
 
+### Console Output
+<img width="598" height="314" alt="image" src="https://github.com/user-attachments/assets/3941ab1f-6d3a-4cf9-b733-61a63ab3a8fa" />
+
+---
 ### ✅ To Do
 
 * Integrate weather and employee stats into analysis
