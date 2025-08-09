@@ -24,7 +24,7 @@ It uses **Python**, **Pandas**, **Matplotlib**, and **Seaborn** to explore and v
 - **Visualizations**:
   - Bar charts for flight status and baggage handling.
   - Line charts for passenger trends and fuel consumption.
-  - Boxplots & scatterplots for deeper insights.
+  - scatterplots for deeper insights.
 
 ---
 
