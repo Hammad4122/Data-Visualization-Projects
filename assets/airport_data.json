@@ -1,0 +1,1344 @@
+{
+    "flights": [
+        {
+            "flight_id": "PK301",
+            "airline": "PIA",
+            "origin": "LHE",
+            "destination": "ISB",
+            "departure": "08:00",
+            "arrival": "09:00",
+            "status": "On Time"
+        },
+        {
+            "flight_id": "EK612",
+            "airline": "Emirates",
+            "origin": "DXB",
+            "destination": "LHE",
+            "departure": "11:00",
+            "arrival": "15:00",
+            "status": "Delayed"
+        },
+        {
+            "flight_id": "QR620",
+            "airline": "Qatar Airways",
+            "origin": "DOH",
+            "destination": "ISB",
+            "departure": "13:00",
+            "arrival": "17:00",
+            "status": "On Time"
+        },
+        {
+            "flight_id": "TK708",
+            "airline": "Turkish Airlines",
+            "origin": "IST",
+            "destination": "LHE",
+            "departure": "14:00",
+            "arrival": "20:00",
+            "status": "On Time"
+        },
+        {
+            "flight_id": "EY243",
+            "airline": "Etihad Airways",
+            "origin": "AUH",
+            "destination": "ISB",
+            "departure": "09:00",
+            "arrival": "12:00",
+            "status": "Delayed"
+        },
+        {
+            "flight_id": "TK708",
+            "airline": "Turkish Airlines",
+            "origin": "IST",
+            "destination": "LHE",
+            "departure": "14:00",
+            "arrival": "20:00",
+            "status": "Cancelled"
+        },
+        {
+            "flight_id": "EY243",
+            "airline": "Etihad Airways",
+            "origin": "AUH",
+            "destination": "ISB",
+            "departure": "09:00",
+            "arrival": "12:00",
+            "status": "On Time"
+        },
+        {
+            "flight_id": "PK301",
+            "airline": "PIA",
+            "origin": "LHE",
+            "destination": "ISB",
+            "departure": "08:00",
+            "arrival": "09:00",
+            "status": "On Time"
+        },
+        {
+            "flight_id": "PK301",
+            "airline": "PIA",
+            "origin": "LHE",
+            "destination": "ISB",
+            "departure": "08:00",
+            "arrival": "09:00",
+            "status": "Cancelled"
+        },
+        {
+            "flight_id": "TK708",
+            "airline": "Turkish Airlines",
+            "origin": "IST",
+            "destination": "LHE",
+            "departure": "14:00",
+            "arrival": "20:00",
+            "status": "Cancelled"
+        },
+        {
+            "flight_id": "TK708",
+            "airline": "Turkish Airlines",
+            "origin": "IST",
+            "destination": "LHE",
+            "departure": "14:00",
+            "arrival": "20:00",
+            "status": "Cancelled"
+        },
+        {
+            "flight_id": "PK301",
+            "airline": "PIA",
+            "origin": "LHE",
+            "destination": "ISB",
+            "departure": "08:00",
+            "arrival": "09:00",
+            "status": "Cancelled"
+        },
+        {
+            "flight_id": "QR620",
+            "airline": "Qatar Airways",
+            "origin": "DOH",
+            "destination": "ISB",
+            "departure": "13:00",
+            "arrival": "17:00",
+            "status": "On Time"
+        },
+        {
+            "flight_id": "EK612",
+            "airline": "Emirates",
+            "origin": "DXB",
+            "destination": "LHE",
+            "departure": "11:00",
+            "arrival": "15:00",
+            "status": "Delayed"
+        },
+        {
+            "flight_id": "TK708",
+            "airline": "Turkish Airlines",
+            "origin": "IST",
+            "destination": "LHE",
+            "departure": "14:00",
+            "arrival": "20:00",
+            "status": "Cancelled"
+        },
+        {
+            "flight_id": "TK708",
+            "airline": "Turkish Airlines",
+            "origin": "IST",
+            "destination": "LHE",
+            "departure": "14:00",
+            "arrival": "20:00",
+            "status": "Cancelled"
+        },
+        {
+            "flight_id": "TK708",
+            "airline": "Turkish Airlines",
+            "origin": "IST",
+            "destination": "LHE",
+            "departure": "14:00",
+            "arrival": "20:00",
+            "status": "Cancelled"
+        },
+        {
+            "flight_id": "TK708",
+            "airline": "Turkish Airlines",
+            "origin": "IST",
+            "destination": "LHE",
+            "departure": "14:00",
+            "arrival": "20:00",
+            "status": "Delayed"
+        },
+        {
+            "flight_id": "TK708",
+            "airline": "Turkish Airlines",
+            "origin": "IST",
+            "destination": "LHE",
+            "departure": "14:00",
+            "arrival": "20:00",
+            "status": "On Time"
+        },
+        {
+            "flight_id": "TK708",
+            "airline": "Turkish Airlines",
+            "origin": "IST",
+            "destination": "LHE",
+            "departure": "14:00",
+            "arrival": "20:00",
+            "status": "Cancelled"
+        }
+    ],
+    "passenger_stats": [
+        {
+            "date": "2024-06-01",
+            "domestic": 5917,
+            "international": 3338
+        },
+        {
+            "date": "2024-06-02",
+            "domestic": 5809,
+            "international": 3103
+        },
+        {
+            "date": "2024-06-03",
+            "domestic": 5930,
+            "international": 3909
+        },
+        {
+            "date": "2024-06-04",
+            "domestic": 5633,
+            "international": 3856
+        },
+        {
+            "date": "2024-06-05",
+            "domestic": 5807,
+            "international": 3033
+        },
+        {
+            "date": "2024-06-06",
+            "domestic": 6306,
+            "international": 3900
+        },
+        {
+            "date": "2024-06-07",
+            "domestic": 5117,
+            "international": 3975
+        },
+        {
+            "date": "2024-06-08",
+            "domestic": 6155,
+            "international": 3414
+        },
+        {
+            "date": "2024-06-09",
+            "domestic": 5105,
+            "international": 3838
+        },
+        {
+            "date": "2024-06-10",
+            "domestic": 5003,
+            "international": 3224
+        },
+        {
+            "date": "2024-06-11",
+            "domestic": 6059,
+            "international": 3112
+        },
+        {
+            "date": "2024-06-12",
+            "domestic": 5784,
+            "international": 3895
+        },
+        {
+            "date": "2024-06-13",
+            "domestic": 5083,
+            "international": 3907
+        },
+        {
+            "date": "2024-06-14",
+            "domestic": 5850,
+            "international": 3806
+        },
+        {
+            "date": "2024-06-15",
+            "domestic": 6867,
+            "international": 3679
+        },
+        {
+            "date": "2024-06-16",
+            "domestic": 5188,
+            "international": 3888
+        },
+        {
+            "date": "2024-06-17",
+            "domestic": 6476,
+            "international": 3905
+        },
+        {
+            "date": "2024-06-18",
+            "domestic": 5905,
+            "international": 3867
+        },
+        {
+            "date": "2024-06-19",
+            "domestic": 6268,
+            "international": 3054
+        },
+        {
+            "date": "2024-06-20",
+            "domestic": 6181,
+            "international": 3681
+        },
+        {
+            "date": "2024-06-21",
+            "domestic": 6988,
+            "international": 3742
+        },
+        {
+            "date": "2024-06-22",
+            "domestic": 6082,
+            "international": 3555
+        },
+        {
+            "date": "2024-06-23",
+            "domestic": 6689,
+            "international": 3358
+        },
+        {
+            "date": "2024-06-24",
+            "domestic": 6729,
+            "international": 3887
+        },
+        {
+            "date": "2024-06-25",
+            "domestic": 5087,
+            "international": 3101
+        },
+        {
+            "date": "2024-06-26",
+            "domestic": 5393,
+            "international": 3080
+        },
+        {
+            "date": "2024-06-27",
+            "domestic": 6273,
+            "international": 3045
+        },
+        {
+            "date": "2024-06-28",
+            "domestic": 6077,
+            "international": 3915
+        },
+        {
+            "date": "2024-06-29",
+            "domestic": 6873,
+            "international": 3714
+        },
+        {
+            "date": "2024-06-30",
+            "domestic": 5407,
+            "international": 3540
+        }
+    ],
+    "baggage_handling": [
+        {
+            "flight_id": "PK301",
+            "date": "2025-07-01",
+            "checked_in": 151,
+            "loaded": 147,
+            "lost": 3,
+            "delayed": 0
+        },
+        {
+            "flight_id": "EK612",
+            "date": "2025-07-01",
+            "checked_in": 201,
+            "loaded": 196,
+            "lost": 2,
+            "delayed": 0
+        },
+        {
+            "flight_id": "QR620",
+            "date": "2025-07-01",
+            "checked_in": 218,
+            "loaded": 216,
+            "lost": 1,
+            "delayed": 7
+        },
+        {
+            "flight_id": "TK708",
+            "date": "2025-07-01",
+            "checked_in": 189,
+            "loaded": 187,
+            "lost": 0,
+            "delayed": 5
+        },
+        {
+            "flight_id": "EY243",
+            "date": "2025-07-01",
+            "checked_in": 210,
+            "loaded": 210,
+            "lost": 1,
+            "delayed": 5
+        },
+        {
+            "flight_id": "PK301",
+            "date": "2025-07-02",
+            "checked_in": 194,
+            "loaded": 190,
+            "lost": 0,
+            "delayed": 3
+        },
+        {
+            "flight_id": "EK612",
+            "date": "2025-07-02",
+            "checked_in": 204,
+            "loaded": 202,
+            "lost": 3,
+            "delayed": 0
+        },
+        {
+            "flight_id": "QR620",
+            "date": "2025-07-02",
+            "checked_in": 193,
+            "loaded": 192,
+            "lost": 0,
+            "delayed": 7
+        },
+        {
+            "flight_id": "TK708",
+            "date": "2025-07-02",
+            "checked_in": 176,
+            "loaded": 174,
+            "lost": 0,
+            "delayed": 1
+        },
+        {
+            "flight_id": "EY243",
+            "date": "2025-07-02",
+            "checked_in": 151,
+            "loaded": 150,
+            "lost": 1,
+            "delayed": 5
+        },
+        {
+            "flight_id": "PK301",
+            "date": "2025-07-03",
+            "checked_in": 246,
+            "loaded": 245,
+            "lost": 3,
+            "delayed": 7
+        },
+        {
+            "flight_id": "EK612",
+            "date": "2025-07-03",
+            "checked_in": 237,
+            "loaded": 232,
+            "lost": 1,
+            "delayed": 4
+        },
+        {
+            "flight_id": "QR620",
+            "date": "2025-07-03",
+            "checked_in": 159,
+            "loaded": 156,
+            "lost": 0,
+            "delayed": 4
+        },
+        {
+            "flight_id": "TK708",
+            "date": "2025-07-03",
+            "checked_in": 226,
+            "loaded": 224,
+            "lost": 2,
+            "delayed": 7
+        },
+        {
+            "flight_id": "EY243",
+            "date": "2025-07-03",
+            "checked_in": 195,
+            "loaded": 193,
+            "lost": 2,
+            "delayed": 6
+        },
+        {
+            "flight_id": "PK301",
+            "date": "2025-07-04",
+            "checked_in": 192,
+            "loaded": 191,
+            "lost": 0,
+            "delayed": 6
+        },
+        {
+            "flight_id": "EK612",
+            "date": "2025-07-04",
+            "checked_in": 156,
+            "loaded": 155,
+            "lost": 3,
+            "delayed": 3
+        },
+        {
+            "flight_id": "QR620",
+            "date": "2025-07-04",
+            "checked_in": 204,
+            "loaded": 201,
+            "lost": 0,
+            "delayed": 3
+        },
+        {
+            "flight_id": "TK708",
+            "date": "2025-07-04",
+            "checked_in": 188,
+            "loaded": 187,
+            "lost": 0,
+            "delayed": 0
+        },
+        {
+            "flight_id": "EY243",
+            "date": "2025-07-04",
+            "checked_in": 246,
+            "loaded": 246,
+            "lost": 2,
+            "delayed": 2
+        },
+        {
+            "flight_id": "PK301",
+            "date": "2025-07-05",
+            "checked_in": 203,
+            "loaded": 203,
+            "lost": 1,
+            "delayed": 3
+        },
+        {
+            "flight_id": "EK612",
+            "date": "2025-07-05",
+            "checked_in": 178,
+            "loaded": 173,
+            "lost": 1,
+            "delayed": 2
+        },
+        {
+            "flight_id": "QR620",
+            "date": "2025-07-05",
+            "checked_in": 224,
+            "loaded": 224,
+            "lost": 2,
+            "delayed": 7
+        },
+        {
+            "flight_id": "TK708",
+            "date": "2025-07-05",
+            "checked_in": 224,
+            "loaded": 221,
+            "lost": 2,
+            "delayed": 6
+        },
+        {
+            "flight_id": "EY243",
+            "date": "2025-07-05",
+            "checked_in": 222,
+            "loaded": 218,
+            "lost": 2,
+            "delayed": 2
+        },
+        {
+            "flight_id": "PK301",
+            "date": "2025-07-06",
+            "checked_in": 248,
+            "loaded": 246,
+            "lost": 2,
+            "delayed": 3
+        },
+        {
+            "flight_id": "EK612",
+            "date": "2025-07-06",
+            "checked_in": 153,
+            "loaded": 153,
+            "lost": 1,
+            "delayed": 1
+        },
+        {
+            "flight_id": "QR620",
+            "date": "2025-07-06",
+            "checked_in": 170,
+            "loaded": 169,
+            "lost": 3,
+            "delayed": 4
+        },
+        {
+            "flight_id": "TK708",
+            "date": "2025-07-06",
+            "checked_in": 243,
+            "loaded": 243,
+            "lost": 2,
+            "delayed": 2
+        },
+        {
+            "flight_id": "EY243",
+            "date": "2025-07-06",
+            "checked_in": 221,
+            "loaded": 218,
+            "lost": 1,
+            "delayed": 5
+        },
+        {
+            "flight_id": "PK301",
+            "date": "2025-07-07",
+            "checked_in": 208,
+            "loaded": 206,
+            "lost": 3,
+            "delayed": 0
+        },
+        {
+            "flight_id": "EK612",
+            "date": "2025-07-07",
+            "checked_in": 225,
+            "loaded": 222,
+            "lost": 3,
+            "delayed": 7
+        },
+        {
+            "flight_id": "QR620",
+            "date": "2025-07-07",
+            "checked_in": 218,
+            "loaded": 215,
+            "lost": 1,
+            "delayed": 0
+        },
+        {
+            "flight_id": "TK708",
+            "date": "2025-07-07",
+            "checked_in": 208,
+            "loaded": 207,
+            "lost": 3,
+            "delayed": 1
+        },
+        {
+            "flight_id": "EY243",
+            "date": "2025-07-07",
+            "checked_in": 161,
+            "loaded": 158,
+            "lost": 1,
+            "delayed": 4
+        },
+        {
+            "flight_id": "PK301",
+            "date": "2025-07-08",
+            "checked_in": 221,
+            "loaded": 218,
+            "lost": 1,
+            "delayed": 4
+        },
+        {
+            "flight_id": "EK612",
+            "date": "2025-07-08",
+            "checked_in": 212,
+            "loaded": 208,
+            "lost": 2,
+            "delayed": 1
+        },
+        {
+            "flight_id": "QR620",
+            "date": "2025-07-08",
+            "checked_in": 153,
+            "loaded": 151,
+            "lost": 1,
+            "delayed": 0
+        },
+        {
+            "flight_id": "TK708",
+            "date": "2025-07-08",
+            "checked_in": 164,
+            "loaded": 162,
+            "lost": 3,
+            "delayed": 0
+        },
+        {
+            "flight_id": "EY243",
+            "date": "2025-07-08",
+            "checked_in": 180,
+            "loaded": 177,
+            "lost": 3,
+            "delayed": 6
+        },
+        {
+            "flight_id": "PK301",
+            "date": "2025-07-09",
+            "checked_in": 246,
+            "loaded": 246,
+            "lost": 3,
+            "delayed": 4
+        },
+        {
+            "flight_id": "EK612",
+            "date": "2025-07-09",
+            "checked_in": 166,
+            "loaded": 162,
+            "lost": 2,
+            "delayed": 3
+        },
+        {
+            "flight_id": "QR620",
+            "date": "2025-07-09",
+            "checked_in": 246,
+            "loaded": 244,
+            "lost": 1,
+            "delayed": 0
+        },
+        {
+            "flight_id": "TK708",
+            "date": "2025-07-09",
+            "checked_in": 185,
+            "loaded": 184,
+            "lost": 3,
+            "delayed": 2
+        },
+        {
+            "flight_id": "EY243",
+            "date": "2025-07-09",
+            "checked_in": 191,
+            "loaded": 190,
+            "lost": 0,
+            "delayed": 0
+        },
+        {
+            "flight_id": "PK301",
+            "date": "2025-07-10",
+            "checked_in": 203,
+            "loaded": 200,
+            "lost": 2,
+            "delayed": 7
+        },
+        {
+            "flight_id": "EK612",
+            "date": "2025-07-10",
+            "checked_in": 151,
+            "loaded": 147,
+            "lost": 1,
+            "delayed": 4
+        },
+        {
+            "flight_id": "QR620",
+            "date": "2025-07-10",
+            "checked_in": 202,
+            "loaded": 201,
+            "lost": 1,
+            "delayed": 4
+        },
+        {
+            "flight_id": "TK708",
+            "date": "2025-07-10",
+            "checked_in": 248,
+            "loaded": 245,
+            "lost": 2,
+            "delayed": 7
+        },
+        {
+            "flight_id": "EY243",
+            "date": "2025-07-10",
+            "checked_in": 210,
+            "loaded": 208,
+            "lost": 1,
+            "delayed": 5
+        }
+    ],
+    "fuel_consumption": [
+        {
+            "flight_id": "PK301",
+            "date": "2025-07-01",
+            "fuel_liters": 17228,
+            "fuel_cost_usd": 13344.05
+        },
+        {
+            "flight_id": "EK612",
+            "date": "2025-07-01",
+            "fuel_liters": 15351,
+            "fuel_cost_usd": 12544.67
+        },
+        {
+            "flight_id": "QR620",
+            "date": "2025-07-01",
+            "fuel_liters": 24588,
+            "fuel_cost_usd": 19912.81
+        },
+        {
+            "flight_id": "TK708",
+            "date": "2025-07-01",
+            "fuel_liters": 23969,
+            "fuel_cost_usd": 19373.2
+        },
+        {
+            "flight_id": "EY243",
+            "date": "2025-07-01",
+            "fuel_liters": 19230,
+            "fuel_cost_usd": 15105.36
+        },
+        {
+            "flight_id": "PK301",
+            "date": "2025-07-02",
+            "fuel_liters": 23820,
+            "fuel_cost_usd": 19866.57
+        },
+        {
+            "flight_id": "EK612",
+            "date": "2025-07-02",
+            "fuel_liters": 20929,
+            "fuel_cost_usd": 15944.35
+        },
+        {
+            "flight_id": "QR620",
+            "date": "2025-07-02",
+            "fuel_liters": 24560,
+            "fuel_cost_usd": 19294.75
+        },
+        {
+            "flight_id": "TK708",
+            "date": "2025-07-02",
+            "fuel_liters": 21138,
+            "fuel_cost_usd": 16757.39
+        },
+        {
+            "flight_id": "EY243",
+            "date": "2025-07-02",
+            "fuel_liters": 20372,
+            "fuel_cost_usd": 17016.84
+        },
+        {
+            "flight_id": "PK301",
+            "date": "2025-07-03",
+            "fuel_liters": 22871,
+            "fuel_cost_usd": 17608.35
+        },
+        {
+            "flight_id": "EK612",
+            "date": "2025-07-03",
+            "fuel_liters": 20192,
+            "fuel_cost_usd": 15231.29
+        },
+        {
+            "flight_id": "QR620",
+            "date": "2025-07-03",
+            "fuel_liters": 22620,
+            "fuel_cost_usd": 17353.98
+        },
+        {
+            "flight_id": "TK708",
+            "date": "2025-07-03",
+            "fuel_liters": 22284,
+            "fuel_cost_usd": 18466.04
+        },
+        {
+            "flight_id": "EY243",
+            "date": "2025-07-03",
+            "fuel_liters": 18997,
+            "fuel_cost_usd": 14469.66
+        },
+        {
+            "flight_id": "PK301",
+            "date": "2025-07-04",
+            "fuel_liters": 24150,
+            "fuel_cost_usd": 20472.13
+        },
+        {
+            "flight_id": "EK612",
+            "date": "2025-07-04",
+            "fuel_liters": 18926,
+            "fuel_cost_usd": 15380.41
+        },
+        {
+            "flight_id": "QR620",
+            "date": "2025-07-04",
+            "fuel_liters": 19408,
+            "fuel_cost_usd": 14994.59
+        },
+        {
+            "flight_id": "TK708",
+            "date": "2025-07-04",
+            "fuel_liters": 15525,
+            "fuel_cost_usd": 11833.11
+        },
+        {
+            "flight_id": "EY243",
+            "date": "2025-07-04",
+            "fuel_liters": 20753,
+            "fuel_cost_usd": 15886.1
+        },
+        {
+            "flight_id": "PK301",
+            "date": "2025-07-05",
+            "fuel_liters": 17131,
+            "fuel_cost_usd": 14009.41
+        },
+        {
+            "flight_id": "EK612",
+            "date": "2025-07-05",
+            "fuel_liters": 15367,
+            "fuel_cost_usd": 12040.98
+        },
+        {
+            "flight_id": "QR620",
+            "date": "2025-07-05",
+            "fuel_liters": 18594,
+            "fuel_cost_usd": 14549.64
+        },
+        {
+            "flight_id": "TK708",
+            "date": "2025-07-05",
+            "fuel_liters": 22999,
+            "fuel_cost_usd": 18236.37
+        },
+        {
+            "flight_id": "EY243",
+            "date": "2025-07-05",
+            "fuel_liters": 24706,
+            "fuel_cost_usd": 20197.58
+        },
+        {
+            "flight_id": "PK301",
+            "date": "2025-07-06",
+            "fuel_liters": 24016,
+            "fuel_cost_usd": 18538.68
+        },
+        {
+            "flight_id": "EK612",
+            "date": "2025-07-06",
+            "fuel_liters": 15420,
+            "fuel_cost_usd": 12094.51
+        },
+        {
+            "flight_id": "QR620",
+            "date": "2025-07-06",
+            "fuel_liters": 15574,
+            "fuel_cost_usd": 12919.4
+        },
+        {
+            "flight_id": "TK708",
+            "date": "2025-07-06",
+            "fuel_liters": 15282,
+            "fuel_cost_usd": 11913.97
+        },
+        {
+            "flight_id": "EY243",
+            "date": "2025-07-06",
+            "fuel_liters": 18814,
+            "fuel_cost_usd": 14863.1
+        },
+        {
+            "flight_id": "PK301",
+            "date": "2025-07-07",
+            "fuel_liters": 21428,
+            "fuel_cost_usd": 17330.29
+        },
+        {
+            "flight_id": "EK612",
+            "date": "2025-07-07",
+            "fuel_liters": 17831,
+            "fuel_cost_usd": 15062.67
+        },
+        {
+            "flight_id": "QR620",
+            "date": "2025-07-07",
+            "fuel_liters": 21717,
+            "fuel_cost_usd": 16867.99
+        },
+        {
+            "flight_id": "TK708",
+            "date": "2025-07-07",
+            "fuel_liters": 23488,
+            "fuel_cost_usd": 19266.75
+        },
+        {
+            "flight_id": "EY243",
+            "date": "2025-07-07",
+            "fuel_liters": 24330,
+            "fuel_cost_usd": 18359.7
+        },
+        {
+            "flight_id": "PK301",
+            "date": "2025-07-08",
+            "fuel_liters": 24805,
+            "fuel_cost_usd": 19854.92
+        },
+        {
+            "flight_id": "EK612",
+            "date": "2025-07-08",
+            "fuel_liters": 18180,
+            "fuel_cost_usd": 15345.49
+        },
+        {
+            "flight_id": "QR620",
+            "date": "2025-07-08",
+            "fuel_liters": 23869,
+            "fuel_cost_usd": 19201.18
+        },
+        {
+            "flight_id": "TK708",
+            "date": "2025-07-08",
+            "fuel_liters": 24328,
+            "fuel_cost_usd": 20297.69
+        },
+        {
+            "flight_id": "EY243",
+            "date": "2025-07-08",
+            "fuel_liters": 23439,
+            "fuel_cost_usd": 19190.43
+        },
+        {
+            "flight_id": "PK301",
+            "date": "2025-07-09",
+            "fuel_liters": 15399,
+            "fuel_cost_usd": 12963.78
+        },
+        {
+            "flight_id": "EK612",
+            "date": "2025-07-09",
+            "fuel_liters": 24101,
+            "fuel_cost_usd": 18600.39
+        },
+        {
+            "flight_id": "QR620",
+            "date": "2025-07-09",
+            "fuel_liters": 21047,
+            "fuel_cost_usd": 16829.63
+        },
+        {
+            "flight_id": "TK708",
+            "date": "2025-07-09",
+            "fuel_liters": 15987,
+            "fuel_cost_usd": 12348.93
+        },
+        {
+            "flight_id": "EY243",
+            "date": "2025-07-09",
+            "fuel_liters": 23599,
+            "fuel_cost_usd": 18988.89
+        },
+        {
+            "flight_id": "PK301",
+            "date": "2025-07-10",
+            "fuel_liters": 22866,
+            "fuel_cost_usd": 17990.01
+        },
+        {
+            "flight_id": "EK612",
+            "date": "2025-07-10",
+            "fuel_liters": 22587,
+            "fuel_cost_usd": 18281.59
+        },
+        {
+            "flight_id": "QR620",
+            "date": "2025-07-10",
+            "fuel_liters": 15192,
+            "fuel_cost_usd": 12656.15
+        },
+        {
+            "flight_id": "TK708",
+            "date": "2025-07-10",
+            "fuel_liters": 22121,
+            "fuel_cost_usd": 17601.55
+        },
+        {
+            "flight_id": "EY243",
+            "date": "2025-07-10",
+            "fuel_liters": 16449,
+            "fuel_cost_usd": 13619.99
+        }
+    ],
+    "employee_stats": [
+        {
+            "employee_id": "E100",
+            "role": "Ground Staff",
+            "hours_worked": 170,
+            "rating": 4.9
+        },
+        {
+            "employee_id": "E101",
+            "role": "Pilot",
+            "hours_flown": 64,
+            "rating": 4.3
+        },
+        {
+            "employee_id": "E102",
+            "role": "Ground Staff",
+            "hours_worked": 156,
+            "rating": 4.9
+        },
+        {
+            "employee_id": "E103",
+            "role": "Cabin Crew",
+            "hours_worked": 159,
+            "rating": 4.7
+        },
+        {
+            "employee_id": "E104",
+            "role": "Pilot",
+            "hours_flown": 82,
+            "rating": 3.8
+        },
+        {
+            "employee_id": "E105",
+            "role": "Ground Staff",
+            "hours_worked": 152,
+            "rating": 4.6
+        },
+        {
+            "employee_id": "E106",
+            "role": "Technician",
+            "hours_worked": 159,
+            "rating": 4.8
+        },
+        {
+            "employee_id": "E107",
+            "role": "Technician",
+            "hours_worked": 150,
+            "rating": 4.7
+        },
+        {
+            "employee_id": "E108",
+            "role": "Ground Staff",
+            "hours_worked": 155,
+            "rating": 3.7
+        },
+        {
+            "employee_id": "E109",
+            "role": "Cabin Crew",
+            "hours_worked": 161,
+            "rating": 4.9
+        },
+        {
+            "employee_id": "E110",
+            "role": "Technician",
+            "hours_worked": 147,
+            "rating": 4.0
+        },
+        {
+            "employee_id": "E111",
+            "role": "Air Traffic Controller",
+            "hours_worked": 141,
+            "rating": 3.6
+        },
+        {
+            "employee_id": "E112",
+            "role": "Ground Staff",
+            "hours_worked": 164,
+            "rating": 3.5
+        },
+        {
+            "employee_id": "E113",
+            "role": "Ground Staff",
+            "hours_worked": 174,
+            "rating": 3.5
+        },
+        {
+            "employee_id": "E114",
+            "role": "Cabin Crew",
+            "hours_worked": 151,
+            "rating": 3.9
+        },
+        {
+            "employee_id": "E115",
+            "role": "Ground Staff",
+            "hours_worked": 156,
+            "rating": 5.0
+        },
+        {
+            "employee_id": "E116",
+            "role": "Technician",
+            "hours_worked": 161,
+            "rating": 4.5
+        },
+        {
+            "employee_id": "E117",
+            "role": "Air Traffic Controller",
+            "hours_worked": 163,
+            "rating": 4.6
+        },
+        {
+            "employee_id": "E118",
+            "role": "Ground Staff",
+            "hours_worked": 177,
+            "rating": 3.8
+        },
+        {
+            "employee_id": "E119",
+            "role": "Technician",
+            "hours_worked": 141,
+            "rating": 3.6
+        }
+    ],
+    "weather_conditions": [
+        {
+            "date": "2024-06-01",
+            "visibility_km": 9.0,
+            "temperature_c": 37,
+            "wind_kph": 20
+        },
+        {
+            "date": "2024-06-02",
+            "visibility_km": 9.9,
+            "temperature_c": 37,
+            "wind_kph": 15
+        },
+        {
+            "date": "2024-06-03",
+            "visibility_km": 6.1,
+            "temperature_c": 30,
+            "wind_kph": 17
+        },
+        {
+            "date": "2024-06-04",
+            "visibility_km": 6.1,
+            "temperature_c": 40,
+            "wind_kph": 10
+        },
+        {
+            "date": "2024-06-05",
+            "visibility_km": 7.1,
+            "temperature_c": 37,
+            "wind_kph": 11
+        },
+        {
+            "date": "2024-06-06",
+            "visibility_km": 5.3,
+            "temperature_c": 36,
+            "wind_kph": 10
+        },
+        {
+            "date": "2024-06-07",
+            "visibility_km": 7.0,
+            "temperature_c": 40,
+            "wind_kph": 13
+        },
+        {
+            "date": "2024-06-08",
+            "visibility_km": 8.0,
+            "temperature_c": 34,
+            "wind_kph": 23
+        },
+        {
+            "date": "2024-06-09",
+            "visibility_km": 7.8,
+            "temperature_c": 38,
+            "wind_kph": 14
+        },
+        {
+            "date": "2024-06-10",
+            "visibility_km": 9.8,
+            "temperature_c": 38,
+            "wind_kph": 18
+        },
+        {
+            "date": "2024-06-11",
+            "visibility_km": 7.2,
+            "temperature_c": 40,
+            "wind_kph": 23
+        },
+        {
+            "date": "2024-06-12",
+            "visibility_km": 7.7,
+            "temperature_c": 38,
+            "wind_kph": 19
+        },
+        {
+            "date": "2024-06-13",
+            "visibility_km": 9.2,
+            "temperature_c": 39,
+            "wind_kph": 18
+        },
+        {
+            "date": "2024-06-14",
+            "visibility_km": 7.8,
+            "temperature_c": 35,
+            "wind_kph": 14
+        },
+        {
+            "date": "2024-06-15",
+            "visibility_km": 7.6,
+            "temperature_c": 34,
+            "wind_kph": 12
+        },
+        {
+            "date": "2024-06-16",
+            "visibility_km": 5.5,
+            "temperature_c": 32,
+            "wind_kph": 19
+        },
+        {
+            "date": "2024-06-17",
+            "visibility_km": 5.9,
+            "temperature_c": 34,
+            "wind_kph": 24
+        },
+        {
+            "date": "2024-06-18",
+            "visibility_km": 9.5,
+            "temperature_c": 32,
+            "wind_kph": 15
+        },
+        {
+            "date": "2024-06-19",
+            "visibility_km": 7.7,
+            "temperature_c": 36,
+            "wind_kph": 13
+        },
+        {
+            "date": "2024-06-20",
+            "visibility_km": 9.6,
+            "temperature_c": 39,
+            "wind_kph": 21
+        },
+        {
+            "date": "2024-06-21",
+            "visibility_km": 8.7,
+            "temperature_c": 39,
+            "wind_kph": 13
+        },
+        {
+            "date": "2024-06-22",
+            "visibility_km": 7.4,
+            "temperature_c": 38,
+            "wind_kph": 25
+        },
+        {
+            "date": "2024-06-23",
+            "visibility_km": 6.5,
+            "temperature_c": 30,
+            "wind_kph": 23
+        },
+        {
+            "date": "2024-06-24",
+            "visibility_km": 9.9,
+            "temperature_c": 40,
+            "wind_kph": 13
+        },
+        {
+            "date": "2024-06-25",
+            "visibility_km": 6.4,
+            "temperature_c": 39,
+            "wind_kph": 12
+        },
+        {
+            "date": "2024-06-26",
+            "visibility_km": 5.9,
+            "temperature_c": 38,
+            "wind_kph": 12
+        },
+        {
+            "date": "2024-06-27",
+            "visibility_km": 5.1,
+            "temperature_c": 30,
+            "wind_kph": 22
+        },
+        {
+            "date": "2024-06-28",
+            "visibility_km": 6.9,
+            "temperature_c": 40,
+            "wind_kph": 17
+        },
+        {
+            "date": "2024-06-29",
+            "visibility_km": 8.3,
+            "temperature_c": 34,
+            "wind_kph": 23
+        },
+        {
+            "date": "2024-06-30",
+            "visibility_km": 7.2,
+            "temperature_c": 32,
+            "wind_kph": 18
+        }
+    ]
+}
