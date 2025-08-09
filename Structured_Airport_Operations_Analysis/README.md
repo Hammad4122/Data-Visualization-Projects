@@ -31,15 +31,25 @@ It uses **Python**, **Pandas**, **Matplotlib**, and **Seaborn** to explore and v
 ## 📂 Project Structure
 
 Data_Visualization_Projects/\n
+
 │
+
 ├── assets/
+
 │ ├── airport_data.json # Airport dataset in JSON format
+
 │ ├── airport_data_all.csv # (Optional) Combined dataset in CSV format
+
 │
+
 ├── scripts/
+
 │ ├── main.py # Main entry point for analysis
+
 │
+
 ├── README.md # Project documentation
+
 
 
 ---
