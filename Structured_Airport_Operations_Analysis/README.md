@@ -31,15 +31,15 @@ It uses **Python**, **Pandas**, **Matplotlib**, and **Seaborn** to explore and v
 ## 📂 Project Structure
 
 Data_Visualization_Projects/\n
-│\n
-├── assets/\n
-│ ├── airport_data.json # Airport dataset in JSON format\n
-│ ├── airport_data_all.csv # (Optional) Combined dataset in CSV format\n
-│\n
-├── scripts/\n
-│ ├── main.py # Main entry point for analysis\n
-│\n
-├── README.md # Project documentation\n
+│
+├── assets/
+│ ├── airport_data.json # Airport dataset in JSON format
+│ ├── airport_data_all.csv # (Optional) Combined dataset in CSV format
+│
+├── scripts/
+│ ├── main.py # Main entry point for analysis
+│
+├── README.md # Project documentation
 
 
 ---
@@ -66,7 +66,7 @@ The script will:
 
 .
 
-📊 Example Visualizations
+## 📊 Example Visualizations
 The project generates:
 
 • Flight Status: Bar chart of on-time vs delayed flights.
