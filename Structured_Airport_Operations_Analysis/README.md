@@ -99,6 +99,9 @@ The project generates:
 
 📌 Requirements
 • Python 3.7+
+
 • pandas
+
 • matplotlib
+
 • seaborn
