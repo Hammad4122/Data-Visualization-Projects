@@ -48,6 +48,7 @@ def flight_status(on_time,delayed):
 
 # Line chart of domestic vs international passengers over time.
 def plot_passenger_trend(df):
+    plt.figure(figsize=(8, 6))
     plt.plot(df["date"],df["domestic"],label = "Domestic")
     plt.plot(df["date"],df["international"], label = "International")
     plt.title("Domestic vs International passengers over time.")
@@ -59,6 +60,7 @@ def plot_passenger_trend(df):
 
 # fuel consumption (fuel_liters) per day for each flight on the same line chart.
 def fuel_consumption(df):
+    plt.figure(figsize=(10,6))
     sns.lineplot(data=df,x='date',y='fuel_liters',hue='flight_id')
     plt.title("Fuel Consumption per Day")
     plt.xlabel("Date");plt.ylabel("Fuel in Liters")
@@ -69,7 +71,7 @@ def fuel_consumption(df):
 # Baggage Handling Efficiency
 # Comparing checked_in vs loaded bags per flight.
 def baggage_analysis(df):
-
+    plt.figure(figsize=(12,4.8))
     sns.barplot(data=df,x="checked_in",y="loaded",hue="flight_id",palette="coolwarm")
     plt.title("Checked_in vs Loaded bags per flight.",color = "blue")
     plt.xlabel("Checked_in");plt.ylabel("Loaded")

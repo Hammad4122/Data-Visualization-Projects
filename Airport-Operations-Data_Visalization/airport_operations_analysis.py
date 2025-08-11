@@ -92,7 +92,6 @@ airport_data = {
 # ✅ Initial Task 1: Flights Overview
 # Convert the flights data into a DataFrame.
 flights_data = pd.DataFrame(airport_data["flights"])
-print(flights_data)
 number_of_flights = flights_data["airline"].value_counts()
 # Count the number of flights by airline.
 # Plot a bar chart: Airlines vs. Number of Flights.
